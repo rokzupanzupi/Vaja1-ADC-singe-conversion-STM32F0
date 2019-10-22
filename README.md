@@ -1,0 +1,1 @@
+# Vaja1-ADC-singe-conversion-STM32F0
